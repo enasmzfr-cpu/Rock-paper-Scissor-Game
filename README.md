@@ -17,4 +17,4 @@ python rps_game.py
 
 A camera is required. On first run the MediaPipe hand model (`hand_landmarker.task`) is downloaded automatically, so you do not need to add that file to GitHub.
 
-Click **Start Game**, wait for the countdown, then show rock, paper, or scissors.
+
