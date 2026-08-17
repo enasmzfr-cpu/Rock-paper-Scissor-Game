@@ -1,0 +1,10 @@
+hand_landmarker.task
+*.task
+*.task.download
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+.venv/
+venv/
